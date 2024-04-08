@@ -13,6 +13,7 @@
 - Dashboards
   - Using template variables
 - Tags
+  - Using tags to improve organization in your services
 
 ## Using
 To apply this json you need to submit a post request in Datadog API, to test this you can use this curl request:
